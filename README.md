@@ -1,5 +1,7 @@
 # STREAMLIT-PROJECTS
 
+Welcome to my Streamlit Projects page! Here, you'll find a collection of innovative web applications that make data analysis and visualization easier and more efficient. Please feel free to take a look! 
+
 - Weekly-Report: A streamlined web application for effortlessly creating weekly reports https://github.com/cjfuentes-datascience/Weekly-Report-Streamlit
 
 - Sales-Dashboard: An intuitive web application for visualizing sales data in a meaningful and organized way https://github.com/cjfuentes-datascience/Sales-Dashboard-Streamlit
