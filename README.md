@@ -1,9 +1,9 @@
 # STREAMLIT-PROJECTS
 
-- https://github.com/cjfuentes-datascience/Weekly-Report-Streamlit
+- Weekly-Report: https://github.com/cjfuentes-datascience/Weekly-Report-Streamlit
 
-- https://github.com/cjfuentes-datascience/Sales-Dashboard-Streamlit
+- Sales-Dashboard: https://github.com/cjfuentes-datascience/Sales-Dashboard-Streamlit
 
-- https://github.com/cjfuentes-datascience/Excel-Plotter-Streamlit
+- Excel-Plotter: https://github.com/cjfuentes-datascience/Excel-Plotter-Streamlit
 
-- https://github.com/cjfuentes-datascience/Stocks-Streamlit
+- Stocks: https://github.com/cjfuentes-datascience/Stocks-Streamlit
