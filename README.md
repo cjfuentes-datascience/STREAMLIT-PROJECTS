@@ -2,6 +2,8 @@
 
 Welcome to my Streamlit Projects page! Here, you'll find a collection of innovative web applications that make data analysis and visualization easier and more efficient. Please feel free to take a look! 
 
+- Producer-Classification-Model: https://github.com/cjfuentes-datascience/Producer-Classification-Model-Python
+
 - Portfolio Website: https://github.com/cjfuentes-datascience/Porfolio-Website-Streamlit/blob/main/README.md
 
 - Linear-Regression-Weekly-Report: A Streamlit web app that performs linear regression analysis and displays the predictions https://github.com/cjfuentes-datascience/Linear-Regression-Weekly-Report-Streamlit
