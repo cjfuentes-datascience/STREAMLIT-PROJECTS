@@ -2,6 +2,8 @@
 
 Welcome to my Streamlit Projects page! Here, you'll find a collection of innovative web applications that make data analysis and visualization easier and more efficient. Please feel free to take a look! 
 
+- Page-Performance-App: https://github.com/cjfuentes-datascience/Page-Performance-App-Streamlit
+
 - Producer-Classification-Model: https://github.com/cjfuentes-datascience/Producer-Classification-Model-Python
 
 - Portfolio Website: https://github.com/cjfuentes-datascience/Porfolio-Website-Streamlit/blob/main/README.md
