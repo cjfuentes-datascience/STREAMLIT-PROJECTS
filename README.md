@@ -13,6 +13,6 @@ Welcome to my Streamlit Projects page! Here, you'll find a collection of innovat
 
 - Sales-Dashboard: An intuitive web application for visualizing sales data in a meaningful and organized way https://cjfuentes-datascience-sales-dashboard-st-sales-dashboard-6wpnmb.streamlit.app/
 
-- Excel-Plotter: A user-friendly web application that empowers you to plot your data from an excel file with ease https://github.com/cjfuentes-datascience/Excel-Plotter-Streamlit
+- Excel-Plotter: A user-friendly web application that empowers you to plot your data from an excel file with ease https://cjfuentes-datascience-excel-plotter-stream-excel-plotter-urkhnk.streamlit.app/
 
 - Stocks: A dynamic web application that keeps you updated on your favorite stocks https://github.com/cjfuentes-datascience/Stocks-Streamlit
