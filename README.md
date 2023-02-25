@@ -15,4 +15,4 @@ Welcome to my Streamlit Projects page! Here, you'll find a collection of innovat
 
 - Excel-Plotter: A user-friendly web application that empowers you to plot your data from an excel file with ease https://cjfuentes-datascience-excel-plotter-stream-excel-plotter-urkhnk.streamlit.app/
 
-- Stocks: A dynamic web application that keeps you updated on your favorite stocks https://github.com/cjfuentes-datascience/Stocks-Streamlit
+- Stocks: A dynamic web application that keeps you updated on your favorite stocks https://cjfuentes-datascience-stocks-streamlit-stocks-z6vo0e.streamlit.app/
