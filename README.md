@@ -8,8 +8,7 @@ Welcome to my Streamlit Projects page! Here, you'll find a collection of innovat
 
 - Portfolio Website: https://cjfuentes-datascience-porfolio-website-streaml-portfolio-02zrce.streamlit.app/
 
-- Linear-Regression-Weekly-Report: A Streamlit web app that performs linear regression analysis and displays the predictions https://github.com/cjfuentes-datascience/Linear-Regression-Weekly-Report-Streamlit
-
+- Linear-Regression-Weekly-Report: A Streamlit web app that performs linear regression analysis and displays the predictions https://cjfuentes-datascience-linear-regression-weekly-lr-report-yujt5p.streamlit.app/
 - Weekly-Report: A streamlined web application for effortlessly creating weekly reports https://github.com/cjfuentes-datascience/Weekly-Report-Streamlit
 
 - Sales-Dashboard: An intuitive web application for visualizing sales data in a meaningful and organized way https://github.com/cjfuentes-datascience/Sales-Dashboard-Streamlit
