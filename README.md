@@ -4,7 +4,7 @@ Welcome to my Streamlit Projects page! Here, you'll find a collection of innovat
 
 - Page-Performance-App: https://cjfuentes-datascience-page-performance--page-performance-sjkl73.streamlit.app/
 
-- Producer-Classification-Model: https://github.com/cjfuentes-datascience/Producer-Classification-Model-Python
+- Producer-Classification-Model: https://cjfuentes-datascience-producer-classific-pred-prod-class-yh3wdu.streamlit.app/
 
 - Portfolio Website: https://github.com/cjfuentes-datascience/Porfolio-Website-Streamlit/blob/main/README.md
 
