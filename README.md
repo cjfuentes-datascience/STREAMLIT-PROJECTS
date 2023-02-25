@@ -6,7 +6,7 @@ Welcome to my Streamlit Projects page! Here, you'll find a collection of innovat
 
 - Producer-Classification-Model: https://cjfuentes-datascience-producer-classific-pred-prod-class-yh3wdu.streamlit.app/
 
-- Portfolio Website: https://github.com/cjfuentes-datascience/Porfolio-Website-Streamlit/blob/main/README.md
+- Portfolio Website: https://cjfuentes-datascience-porfolio-website-streaml-portfolio-02zrce.streamlit.app/
 
 - Linear-Regression-Weekly-Report: A Streamlit web app that performs linear regression analysis and displays the predictions https://github.com/cjfuentes-datascience/Linear-Regression-Weekly-Report-Streamlit
 
